@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, I'm Kim Sung Yeol, a beginner in development. To introduce myself, I will be a master of development in six months
+Hello, I'm Kim Sung Yeol, a beginner in development. To introduce myself, I will be a master of development in six months thx!!
 
 
 
